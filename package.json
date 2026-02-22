@@ -1,12 +1,9 @@
 {
-  "name": "named-150cmd-bot",
+  "name": "mega-bot-900",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "commonjs",
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "discord.js": "^14.14.1",
+    "better-sqlite3": "^9.4.3"
   }
 }
